@@ -1,6 +1,6 @@
 {
-  "name": "tailblocks",
-  "homepage": "https://tailblocks.cc",
+  "name": "Blog-Templates",
+  "homepage": "https://drowkid-1.github.io/Blog-Templates/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
